@@ -44,4 +44,13 @@ POUR GENERER UNE GRILLE RESOLUE A PARTIR D'UNE GRILLE INCOMPLETE :
 L'argument fichier_sortie est optionnel et la sortie se fait par défaut dans le
 fichier "grille_resolue.txt".
 
+### Exemple d'utilisation
+
+python3 grille_vers_dimacs.py test/config_4x4.tkz
+
+minisat minisat dimacs_out.txt solution.txt
+
+python3 python3 solution_dimacs_vers_grille.py solution.txt
+
+
 /!\ Ce programme ne fonctionne pas si Minisat n'est pas installé sur votre machine /!\
