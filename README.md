@@ -1,8 +1,6 @@
 # Takuzu
 
-Par GAULMIN    Rémi
-    MILLET     Arthur
-    TOUREILLE  Grégory
+Par GAULMIN Rémi, MILLET Arthur, [TOUREILLE Grégory](https://github.com/nyoukki)
 
 Ce programme a pour but de résoudre des grilles du jeu Takuzu (ou Sudoku binaire)
 
